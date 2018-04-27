@@ -1,0 +1,45 @@
+{
+    "html_attributions": [],
+    "results": [
+        {
+            "formatted_address": "1510 5th Ave N, Birmingham, AL 35203, USA",
+            "geometry": {
+                "location": {
+                    "lat": 33.5152833,
+                    "lng": -86.81462309999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.51653557989272,
+                        "lng": -86.81320727010727
+                    },
+                    "southwest": {
+                        "lat": 33.51383592010728,
+                        "lng": -86.81590692989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+            "id": "bf750758a75711263d652a272b8b659110972521",
+            "name": "Birmingham Civil Rights National Monument",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114707115577741815437/photos\">Kareemah Batts</a>"
+                    ],
+                    "photo_reference": "CmRaAAAAEthfZ9Te53nbDVVTXpgbN4UrM5aIkPFB60Fe5VRM1KJ5FaTtWQ1j_DtXA3vsQjF6r9yqxWCOrdFK8Kjk-5e6-mVBuEmfe1CtKKyd-7tF4Ky6V9VPSwLsbTXt4VOs2NPtEhDQBfZ1MHzcRo5G3YPr6g0xGhQLyeg_2ZYorrEgnE0mJShxWH7Sdw",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJzWg3gI4biYgRdmu7a2xlJgk",
+            "rating": 4.8,
+            "reference": "CmRbAAAAlmdsX4JpjiVU2dNScOcfBr_anFEkLzft6gRwZRLVVZkXYyoxrrejcWILaGdkOqF8oRYuZ8HkTA_C7HMeoLDzgxXg-3f_BlWszjgSpfMjLYxO9l7znvFrULyG-8FSldIfEhDOs1A1vph73sH9SEli1xLTGhT2on2n3vPXXORi1t0nAhDqqU5Ytg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "status": "OK"
+}
